@@ -2,4 +2,4 @@
 title: Just following a tutorial
 ---
 
-#Github training
+# Github training
