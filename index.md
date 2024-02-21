@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Just following a tutorial
 ---
 
+#Github training
